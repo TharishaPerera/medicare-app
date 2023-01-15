@@ -16,10 +16,10 @@ class ThirdIntroActivity : AppCompatActivity() {
         txtNext = findViewById(R.id.btn_t_intro_next)
         txtBack = findViewById(R.id.btn_t_intro_back)
 
-//        txtNext.setOnClickListener{
-//            var intent = Intent(this, ThirdIntroActivity::class.java)
-//            startActivity(intent)
-//        }
+        txtNext.setOnClickListener{
+            var intent = Intent(this, WelcomeActivity::class.java)
+            startActivity(intent)
+        }
 
         txtBack.setOnClickListener{
             var intent = Intent(this, SecondIntroActivity::class.java)
