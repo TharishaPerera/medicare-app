@@ -85,7 +85,7 @@
             app:srcCompat="@drawable/intro_dots_1" />
 
         <TextView
-            android:id="@+id/btn_next"
+            android:id="@+id/btn_f_intro_next"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"

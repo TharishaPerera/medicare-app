@@ -66,13 +66,13 @@
         app:layout_constraintStart_toEndOf="@+id/imageView2">
 
         <TextView
-            android:id="@+id/btn_skip"
+            android:id="@+id/btn_s_intro_back"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_weight="1"
             android:fontFamily="@font/lato_regular"
-            android:text="Skip"
+            android:text="Back"
             android:textAlignment="viewStart"
             android:textColor="@color/main_blue" />
 
@@ -85,7 +85,7 @@
             app:srcCompat="@drawable/intro_dots_2" />
 
         <TextView
-            android:id="@+id/btn_next"
+            android:id="@+id/btn_s_intro_next"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
