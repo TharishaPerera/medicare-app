@@ -7,7 +7,8 @@
 **Please use DEV branch for developments**
 
 ---
-+The NodeJS backend can be found [here](https://github.com/TharishaPerera/medicare-backend.git)
+
+-The NodeJS backend can be found [here](https://github.com/TharishaPerera/medicare-backend.git)
 
 *contributors*
 - Ammaar Nizam
