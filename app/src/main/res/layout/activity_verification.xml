@@ -120,9 +120,9 @@
             android:id="@+id/img_clear"
             android:layout_width="60dp"
             android:layout_height="60dp"
-            android:paddingVertical="20dp"
-            android:background="@drawable/input_field_bg"
             android:layout_weight="1"
+            android:background="@drawable/input_field_bg"
+            android:paddingVertical="20dp"
             app:srcCompat="@drawable/cross_ico" />
 
     </LinearLayout>
